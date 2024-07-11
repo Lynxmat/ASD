@@ -1,1 +1,0 @@
-#dwa ciągi o tej samej długości i znaleść najdłuższy wspólny podciąg
